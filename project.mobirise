@@ -4193,7 +4193,7 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#0b6623"
           },
